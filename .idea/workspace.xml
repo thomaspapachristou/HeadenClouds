@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6e5cbb5-3c9b-441d-97a4-3b0709d4f6fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errorconfirmacc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account.php" beforeDir="false" afterPath="$PROJECT_DIR$/account.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/str.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/str.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/validator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/connexion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/DB.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/DB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forgetpassword.php" beforeDir="false" afterPath="$PROJECT_DIR$/forgetpassword.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/arrow_left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/arrow_left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/svg/arrow_right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/arrow_right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/dependencies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inscription.php" beforeDir="false" afterPath="$PROJECT_DIR$/inscription.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inscriptionconfirm.php" beforeDir="false" afterPath="$PROJECT_DIR$/inscriptionconfirm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resetpassword.php" beforeDir="false" afterPath="$PROJECT_DIR$/resetpassword.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1avkDo1qxiNhnjVcrnuZZiFJGyj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6e5cbb5-3c9b-441d-97a4-3b0709d4f6fe" name="Default Changelist" comment="" />
+      <created>1587623343233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587623343233</updated>
+      <workItem from="1587623360402" duration="12387000" />
+      <workItem from="1587797367426" duration="15189000" />
+      <workItem from="1587898526227" duration="12435000" />
+      <workItem from="1587987266516" duration="1808000" />
+      <workItem from="1587991823042" duration="4265000" />
+      <workItem from="1587998656637" duration="55000" />
+      <workItem from="1587999074511" duration="17000" />
+      <workItem from="1587999111940" duration="277000" />
+      <workItem from="1591486034827" duration="15862000" />
+      <workItem from="1591512791232" duration="23000" />
+      <workItem from="1591553454500" duration="3339000" />
+      <workItem from="1591562040539" duration="8126000" />
+      <workItem from="1591586897828" duration="17511000" />
+      <workItem from="1591643361077" duration="184000" />
+      <workItem from="1591643570025" duration="4631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1591486195134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1591486195134" />
+    <state x="1032" y="181" key="#SQL_Dialects" timestamp="1591507106471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="181" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1591507106471" />
+    <state x="1104" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591554343249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591554343249" />
+    <state width="196" height="539" key="HiddenNamespacesPopup" timestamp="1591554359047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="539" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1591554359047" />
+    <state x="764" y="410" key="NewPhpFileDialog" timestamp="1591505873317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="410" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591505873317" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1591575136736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591575136736" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587626502923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1587626502923" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1587999076650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587999076650" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587995157097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587995157097" />
+  </component>
+</project>
