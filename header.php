@@ -1,4 +1,6 @@
-<?php require 'vendor/autoload.php'; ?>
+<?php require 'vendor/autoload.php';?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -57,9 +59,7 @@
 
         <!-- >>> FLEX une partie de la navbar (sign in / log in) [voir DOC et mr-] -->
         <ul class="navbar-nav nav-flex-icons">
-
-            <?php if (isset($_SESSION['auth'])): ?>
-
+            <?php if (session::getInstance()->isLogged()): ?>
               <li class="nav-item">
             <a href="account.php" class="nav-link"> MON COMPTE </a>
               </li>
@@ -77,7 +77,7 @@
                     <a href="connexion.php" class="nav-link border border-info rounded text-info border-info"> <i
                         class="far fa-user"></i> CONNEXION </a>
                   </li>
-            <?php endif; ?> 
+            <?php endif; ?>
         </ul>
       </div>
     </div>

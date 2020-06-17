@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6e5cbb5-3c9b-441d-97a4-3b0709d4f6fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorconfirmacc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/account.php" beforeDir="false" afterPath="$PROJECT_DIR$/account.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/mail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/session.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/str.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/str.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/validator.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/validator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/connexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/connexion.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/DB.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/DB.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forgetpassword.php" beforeDir="false" afterPath="$PROJECT_DIR$/forgetpassword.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/arrow_left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/arrow_left.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/svg/arrow_right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/svg/arrow_right.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/dependencies.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inscription.php" beforeDir="false" afterPath="$PROJECT_DIR$/inscription.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inscriptionconfirm.php" beforeDir="false" afterPath="$PROJECT_DIR$/inscriptionconfirm.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resetpassword.php" beforeDir="false" afterPath="$PROJECT_DIR$/resetpassword.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +44,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1avkDo1qxiNhnjVcrnuZZiFJGyj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -111,6 +85,10 @@
       <workItem from="1591586897828" duration="17511000" />
       <workItem from="1591643361077" duration="184000" />
       <workItem from="1591643570025" duration="4631000" />
+      <workItem from="1592214737986" duration="1284000" />
+      <workItem from="1592297119449" duration="621000" />
+      <workItem from="1592316720332" duration="2698000" />
+      <workItem from="1592367997516" duration="12572000" />
     </task>
     <servers />
   </component>
@@ -130,10 +108,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1104" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591554343249" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1592300503328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592300503328" />
     <state width="196" height="539" key="HiddenNamespacesPopup" timestamp="1591554359047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="196" height="539" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1591554359047" />
+    <state x="728" y="318" key="NewPhpClassDialog" timestamp="1592378677739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="318" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592378677739" />
     <state x="764" y="410" key="NewPhpFileDialog" timestamp="1591505873317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

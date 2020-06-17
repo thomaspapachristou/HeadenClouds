@@ -1,33 +1,13 @@
  <?php
     require 'header.php';
-
     app::getAuth()->restrictAccess();
-    
-    if(!empty($_POST)) {
-
-
-      if(empty($_POST['password']) || $_POST['password'] != $_POST['password_confirm']) {
-         $_SESSION['flash']['danger'] = "Erreur lors de la modification de mot de passe";
-         exit();
-         
-      } else {
-         $user_id = $_SESSION['auth']->id;
-         $password= password_hash($_POST['password'], PASSWORD_BCRYPT);
-         require_once 'db/DB.php';
-         $pdo->prepare('UPDATE users SET password = ?')->execute([$password]);
-         $pdo->prepare ('UPDATE users SET password = ? WHERE id = ?')->execute([$password, $user_id]);
-         $_SESSION['flash']['success'] = "Votre mot de passe a bien été mis à jour";
-
-      }
-    }
-
-    ?>
+    account::passwordChange();?>
     
     <div class="bg">
 
     <div style = "position : relative; top : 10%; color : white;">
     <h1>Mon espace Headen</h1>
-    <h2> Coucou <?= $_SESSION['auth'] -> username; ?> </h2>
+    <h2> Coucou <?= $_SESSION['auth']->username; ?> </h2>
 
    <form action="#" method="post">
 
@@ -43,9 +23,15 @@
 
          <button type="submit" class="btn btn-primary">VALIDER</button>
 
-    </form> 
-
+    </form>
    </div>       <!--  end main div -->
+
+     <div>
+        <label for="avatar">Choisissez le fichier que vous voulez partagez </label>
+        <input type="file"
+               id="file" name="avatar"
+               accept="image/png, image/jpeg">
+     </div>
 </div>          <!--  end bg -->
     
 <?php require 'footer.php'; ?>

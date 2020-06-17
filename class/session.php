@@ -11,6 +11,7 @@
                 return self::$instance;
             }
 
+            //faut le mettre au début
             public function __construct() {
                 session_start();
             }
@@ -36,6 +37,9 @@
                 $_SESSION[$key] = $value;
             }
 
+            public function isLogged(){
+                return !empty(session::getInstance()->read("auth"));
+            }
             public function read($key)
             {
                 //if (isset($_SESSION[$key])){

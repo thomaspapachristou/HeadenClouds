@@ -6,7 +6,7 @@
 
 
     if ($auth->userSession()) {
-      app::redirect(account.php);
+      app::redirect("account.php");
     }
 
     if(!empty ($_POST) && !empty($_POST['username']) && !empty($_POST['password'])) {
@@ -14,7 +14,7 @@
         $session = session::getInstance();
         if($user){
             $session->setFlash('success', 'Vous êtes dorénavant connecté');
-            app::redirect(account.php);
+            app::redirect("account.php");
 
         }else{
             $session->setFlash('danger', 'Identifiant ou mot de passe incorrect');

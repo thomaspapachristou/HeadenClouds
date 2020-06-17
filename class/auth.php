@@ -96,6 +96,9 @@ class auth{
 
             $user = $db->query('SELECT * FROM users WHERE (username = :username OR email = :username) AND date_account IS NOT NULL', ['username' => $username])->fetch();
 
+            if(empty($user)){
+                return false;
+            }
             // Check auto du hashage pour éviter d'écrire la blinde de ligne et d'avoir des erreurs de sécu
             if(password_verify($password, $user->password)) {
                 $this->connect($user);
